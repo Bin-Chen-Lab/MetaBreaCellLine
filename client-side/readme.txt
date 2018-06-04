@@ -1,4 +1,4 @@
-meta.data: files summaring meta data.
+meta.data: meta data files.
 
 code: code to do analysis
 
