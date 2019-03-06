@@ -1,0 +1,11 @@
+Author: keliu.iluke@gmail.com  keliu.iluke@hotmail.com 
+
+Steps to re-produce the figures:
+
+1. Create a folder (name does not matter, suppose here I call it FOLDER1)
+2. Create a RStudio project file in FOLDER1
+3. Create a subfolder under FOLDER1 named client-side
+4. Download all the code into the subfolder client-side
+5. Download client.side.output.tar.gz (from Synapse under accession syn18404527) into subfolder client-side and de-compress
+6. In the code files, I used ABSOLUTE path "~/Project/Cancer2CellLine". Please replace it with the ABSOLUTE path of FOLDER1.
+7. Run the code. Section1(2,3,4,5).R are for the figures shown in the corresponding sections of results. round1(2,2.DE).R are for the figures shown in rebuttal letters.
